@@ -1,0 +1,7 @@
+Feature_Category,Classifier,Condition,Num_Features,Accuracy,AUC_ROC,F1_Score
+Somente Potência,Linear SVM,Eyes Closed,136,0.3143,0.2599,0.2941
+Somente PAC,Linear SVM,Eyes Closed,102,0.6286,0.7072,0.6667
+Somente Assimetria (Potência),Linear SVM,Eyes Closed,56,0.4286,0.0625,0.0
+Somente Hjorth,Linear SVM,Eyes Closed,51,0.3429,0.3947,0.303
+Somente Entropia,Linear SVM,Eyes Closed,153,0.5143,0.4836,0.5405
+Todas as Features Combinadas,Linear SVM,Eyes Closed,5,0.4,0.3224,0.4
