@@ -5,3 +5,9 @@ Somente Assimetria (Potência),Linear SVM,Eyes Closed,56,0.4286,0.0625,0.0
 Somente Hjorth,Linear SVM,Eyes Closed,51,0.3429,0.3947,0.303
 Somente Entropia,Linear SVM,Eyes Closed,153,0.5143,0.4836,0.5405
 Todas as Features Combinadas,Linear SVM,Eyes Closed,5,0.4,0.3224,0.4
+Somente Potência + RFE + OverSample,Hierarchical Multi-SVM,Eyes Closed,5,0.2857,0.5363,0.2324
+Somente PAC + RFE + OverSample,Hierarchical Multi-SVM,Eyes Closed,5,0.2857,0.5381,0.212
+Somente Assimetria (Potência) + RFE + OverSample,Hierarchical Multi-SVM,Eyes Closed,5,0.0571,0.4958,0.0229
+Somente Hjorth + RFE + OverSample,Hierarchical Multi-SVM,Eyes Closed,5,0.3714,0.5916,0.3127
+Somente Entropia + RFE + OverSample,Hierarchical Multi-SVM,Eyes Closed,5,0.4,0.6107,0.3636
+Todas as Features Combinadas + RFE + OverSample,Hierarchical Multi-SVM,Eyes Closed,5,0.1714,0.455,0.1297
