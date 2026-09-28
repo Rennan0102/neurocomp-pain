@@ -11,3 +11,21 @@ Somente Assimetria (Potência) + RFE + OverSample,Hierarchical Multi-SVM,Eyes Cl
 Somente Hjorth + RFE + OverSample,Hierarchical Multi-SVM,Eyes Closed,5,0.3714,0.5916,0.3127
 Somente Entropia + RFE + OverSample,Hierarchical Multi-SVM,Eyes Closed,5,0.4,0.6107,0.3636
 Todas as Features Combinadas + RFE + OverSample,Hierarchical Multi-SVM,Eyes Closed,5,0.1714,0.455,0.1297
+Somente Potência + RFE + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.2571,0.4037,0.2487
+Somente Potência + RFE (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.2286,0.493,0.2325
+Somente Potência + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,136,0.3143,0.5759,0.2878
+Somente PAC + RFE + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.3714,0.5684,0.3696
+Somente PAC + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,102,0.3714,0.4858,0.3662
+Somente PAC + RFE (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.2,0.43,0.1963
+Somente Assimetria (Potência) + RFE + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.3429,0.1858,0.2122
+Somente Assimetria (Potência) + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,56,0.5143,0.3194,0.4105
+Somente Assimetria (Potência) + RFE (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.3429,0.6375,0.2328
+Somente Hjorth + RFE + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.4571,0.5419,0.4528
+Somente Hjorth + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,51,0.3714,0.5197,0.3725
+Somente Hjorth + RFE (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.4,0.6052,0.4068
+Somente Entropia + RFE + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.4571,0.603,0.4437
+Somente Entropia + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,153,0.2,0.4163,0.202
+Somente Entropia + RFE (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.3714,0.5148,0.3737
+Todas as Features Combinadas + RFE + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.1714,0.2588,0.1736
+Todas as Features Combinadas + OverSample (3 Níveis),SVM 3 Níveis,Eyes Closed,498,0.3714,0.5581,0.3617
+Todas as Features Combinadas + RFE (3 Níveis),SVM 3 Níveis,Eyes Closed,5,0.0857,0.4006,0.0707
